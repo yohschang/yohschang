@@ -15,4 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+🌏 Currently wandering in europe 🌎
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=yohschang&show_icons=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohschang&langs_count=4&layout=compact)
+
 - 💬 Fell free to leave a message in the issue section
